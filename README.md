@@ -6,6 +6,12 @@ Most properties have existing buildings on them which are used by different owne
 
 #
 
+![Rusty Modern House Concept](https://github.com/user-attachments/assets/59975741-d7c2-4123-a1f2-eee1c68389aa)
+
+[Maintanable Build](https://chatgpt.com/g/g-68394d2f17b4819181f5497e87590420-maintainable-build) was made to assist with architectural and construction planning through the lens of environmental maintainability—a sustainable design philosophy that ensures buildings are functional, adaptable, and environmentally responsible throughout their entire lifecycle. It helps users make informed decisions by guiding them through step-by-step, multiple-choice questions that focus on key sustainability principles, such as selecting durable and renewable materials, planning for efficient energy use, minimizing waste, and enabling future upgrades or disassembly with minimal environmental impact. Whether it's advising on modular design strategies, integrating smart building technologies, or considering the environmental footprint of construction practices, Maintainable Build empowers professionals and stakeholders to prioritize long-term ecological responsibility without compromising usability or aesthetics.
+
+#
+
 ![Modules](https://github.com/user-attachments/assets/ac453987-a8d7-43af-af02-dc5983dc49dd)
 
 Modular design is a design approach that structures a system as a collection of distinct, interchangeable components, each serving a unique function. This philosophy allows for easier assembly, troubleshooting, upgrades, and customization, as individual modules can be developed, tested, and used independently before being integrated into the overall system. For instance, in the field of consumer electronics, smartphones and laptops often employ modular design principles, enabling users to upgrade certain components like memory or battery without needing to replace the entire device. In architecture, modular design is epitomized by prefabricated buildings where sections are constructed off-site and then assembled on location, offering significant time and cost savings.
