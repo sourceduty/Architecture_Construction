@@ -36,6 +36,8 @@ In the ever-evolving landscape of modernization, each generation holds a unique 
 
 [Urban Simulator](https://chat.openai.com/g/g-XQ2wkdcXL-urban-simulator)
 <br>
+[International City](https://chatgpt.com/g/g-67fa4b62ddac8191ab7486f760f2fae7-international-city)
+<br>
 [Urban Update](https://chat.openai.com/g/g-87Dl1RabQ-urban-update)
 <br>
 [Art & Design](https://github.com/sourceduty/Art_Design)
