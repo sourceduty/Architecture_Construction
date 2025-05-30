@@ -46,7 +46,7 @@ The term "makeshift" refers to a temporary or improvised solution, often created
 
 #
 
-![Pyramid Sand Art](https://github.com/user-attachments/assets/d81434eb-d8a8-46f2-9cf4-ff6564077d03)
+![Pyramid Sand Art](https://github.com/user-attachments/assets/dc6651d7-b8b7-4e9b-a0cd-c13b21c2f7e2)
 
 The ancient Egyptians invested lifetimes into the future of mankind and the adundance of environmental space when they designed and constructed thier very large, strong and complex stone structures. The desertified location for the Great Pyramid of Giza was chosen because of the empty sand covered landscape that is mostly unused by people, animals and plants. Today, in comparison to modern engineering feats, Egyptian structures are outdated and almost unnecessary. These structures are reinvested into the futures of mankind every day, year and century that passes without destruction.
 
@@ -55,7 +55,7 @@ techniques. Evidence suggests that the ancient Egyptians had a basic understandi
 
 #
 
-![Concrete](https://github.com/user-attachments/assets/f40f0d18-3eb8-43bf-bdb3-7938a0990dae)
+![Concrete](https://github.com/user-attachments/assets/218c7e64-61dd-45e2-bc4e-2c3c7a18c4f4)
 
 [Concrete Science](https://chatgpt.com/g/g-67650b3b43908191b086167d47fbd14f-concrete-science) was made to support professionals, researchers, and students involved in concrete technology, civil engineering, and materials science. It serves as a specialized assistant capable of addressing a wide range of technical tasks, such as designing and optimizing concrete mix formulations, analyzing the effects of various admixtures and supplementary cementitious materials, interpreting durability test results, and troubleshooting on-site construction issues related to concrete performance. Additionally, it can generate detailed technical reports, safety guidelines, academic paper outlines, and summaries of cutting-edge research and emerging trends in sustainable and high-performance concrete. By leveraging precise prompts, users can harness its capabilities for both practical field applications and in-depth academic exploration, making it an invaluable tool for enhancing both the quality and efficiency of concrete-related projects.
 
