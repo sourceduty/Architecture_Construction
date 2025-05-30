@@ -40,6 +40,12 @@ In the ever-evolving landscape of modernization, each generation holds a unique 
 
 #
 
+![Makeshift House](https://github.com/user-attachments/assets/f86eceaf-1a0b-41d1-a9d2-996012d2c59b)
+
+The term "makeshift" refers to a temporary or improvised solution, often created quickly out of necessity using available resources rather than ideal or permanent materials. A makeshift house or product design typically emerges in situations where time, budget, or access to conventional tools and materials is limited—such as during natural disasters, emergencies, or in remote locations. These structures or objects prioritize function and immediate usability over durability or aesthetic appeal. For example, a makeshift house might be built from salvaged wood, tarps, or corrugated metal, providing basic shelter without formal planning or architectural design. Similarly, a makeshift product design could involve repurposing household items to fulfill an urgent need, like turning a plastic bottle into a watering can or using crates as furniture. While makeshift solutions are inherently temporary and often lack polish, they demonstrate creativity, resilience, and adaptability in challenging circumstances.
+
+#
+
 [Urban Simulator](https://chat.openai.com/g/g-XQ2wkdcXL-urban-simulator)
 <br>
 [International City](https://chatgpt.com/g/g-67fa4b62ddac8191ab7486f760f2fae7-international-city)
