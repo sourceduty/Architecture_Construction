@@ -4,6 +4,8 @@ Most properties have existing buildings on them which are used by different owne
 
 A lot of residential houses are designed around the standard dimensions of the building materials that are used and combined in residential construction. Most residential house rooms are square in the corners to maximize the efficiency of the floor space. Residential house rooms are designed to fit standard sized people, furniture and products. Commercial building rooms are designed to fit custom sized office spaces, work spaces, machines and equipment.
 
+[Building Technology](https://chatgpt.com/g/g-6836a31d23cc8191816abb2e09cc7e00-building-technology) is a custom GPT focused on building technology, an interdisciplinary field that integrates principles from architecture, engineering, environmental science, materials science, and more to optimize building performance throughout its lifecycle. It provides expert guidance on the design, construction, operation, maintenance, and demolition of buildings with a focus on sustainability, safety, energy efficiency, and occupant well-being. By leveraging current knowledge and best practices, it helps users make informed decisions to create high-quality built environments that are functional, durable, and environmentally responsible. Whether you're planning a new development, retrofitting an existing structure, or exploring innovations in smart buildings, this GPT offers tailored support to enhance every phase of the building process.
+
 #
 
 ![Modules](https://github.com/user-attachments/assets/ac453987-a8d7-43af-af02-dc5983dc49dd)
