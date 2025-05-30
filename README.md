@@ -41,3 +41,7 @@ In the ever-evolving landscape of modernization, each generation holds a unique 
 [Urban Update](https://chat.openai.com/g/g-87Dl1RabQ-urban-update)
 <br>
 [Art & Design](https://github.com/sourceduty/Art_Design)
+<br>
+[Construction Simulator](https://chat.openai.com/g/g-HJGQpAmKa-construction-simulator)
+<br>
+[Construction Robotics](https://chatgpt.com/g/g-676b896b267c8191b886c0651ddb5890-construction-robotics)
