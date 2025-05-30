@@ -16,8 +16,6 @@ Most properties have existing buildings on them which are used by different owne
 
 Modular design is a design approach that structures a system as a collection of distinct, interchangeable components, each serving a unique function. This philosophy allows for easier assembly, troubleshooting, upgrades, and customization, as individual modules can be developed, tested, and used independently before being integrated into the overall system. For instance, in the field of consumer electronics, smartphones and laptops often employ modular design principles, enabling users to upgrade certain components like memory or battery without needing to replace the entire device. In architecture, modular design is epitomized by prefabricated buildings where sections are constructed off-site and then assembled on location, offering significant time and cost savings.
 
-In contrast, integrated design refers to systems where components are so closely interconnected that they cannot be separated or modified without affecting the entire system. This approach can lead to optimized performance and efficiency, as every part of the system is designed to work together seamlessly from the outset. However, this can also result in challenges related to repair and upgrades, as a single failure might necessitate the replacement of an entire system rather than just a single component. For example, in many modern consumer gadgets, such as certain smartphones or tablets, the integration of components into a single, compact unit offers sleekness and user-friendliness but at the cost of reparability and upgradability. Thus, while integrated design can lead to highly refined products, it may also pose limitations in terms of flexibility and longevity.
-
 #
 
 ![Modern Cave House](https://github.com/user-attachments/assets/8d059d76-a452-4e7c-b359-452c058ff4ba)
@@ -49,9 +47,6 @@ The term "makeshift" refers to a temporary or improvised solution, often created
 ![Pyramid Sand Art](https://github.com/user-attachments/assets/dc6651d7-b8b7-4e9b-a0cd-c13b21c2f7e2)
 
 The ancient Egyptians invested lifetimes into the future of mankind and the adundance of environmental space when they designed and constructed thier very large, strong and complex stone structures. The desertified location for the Great Pyramid of Giza was chosen because of the empty sand covered landscape that is mostly unused by people, animals and plants. Today, in comparison to modern engineering feats, Egyptian structures are outdated and almost unnecessary. These structures are reinvested into the futures of mankind every day, year and century that passes without destruction.
-
-The "geopolymer" hypothesis suggests an alternative construction method for the Great Pyramid at Giza, proposing that some stone blocks were cast in place using geopolymer concrete made from crushed limestone and water. Supporters highlight unique characteristics of certain stones, such as Tura limestone casing stones, showing signs of casting. Advocates argue that this approach could have been more efficient, though it remains controversial among experts. Traditional quarrying and transportation methods are still widely accepted, and ongoing research may provide further insights into ancient Egyptian pyramid construction 
-techniques. Evidence suggests that the ancient Egyptians had a basic understanding of wheels and had invented the potter's wheel by the Copper Age (4500-3300 BCE). These early wheels were typically solid wooden disks with a hole for the axle, likely used for pottery production and other small-scale applications. However, there is limited direct archaeological evidence to support the extensive use of wheels for transporting massive stone blocks during the pyramid construction.
 
 #
 
