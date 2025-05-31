@@ -12,7 +12,7 @@ Most properties have existing buildings on them which are used by different owne
 
 #
 
-![Modules](https://github.com/user-attachments/assets/ac453987-a8d7-43af-af02-dc5983dc49dd)
+
 
 Modular design is a design approach that structures a system as a collection of distinct, interchangeable components, each serving a unique function. This philosophy allows for easier assembly, troubleshooting, upgrades, and customization, as individual modules can be developed, tested, and used independently before being integrated into the overall system. For instance, in the field of consumer electronics, smartphones and laptops often employ modular design principles, enabling users to upgrade certain components like memory or battery without needing to replace the entire device. In architecture, modular design is epitomized by prefabricated buildings where sections are constructed off-site and then assembled on location, offering significant time and cost savings.
 
@@ -53,6 +53,12 @@ The ancient Egyptians invested lifetimes into the future of mankind and the adun
 ![Concrete](https://github.com/user-attachments/assets/218c7e64-61dd-45e2-bc4e-2c3c7a18c4f4)
 
 [Concrete Science](https://chatgpt.com/g/g-67650b3b43908191b086167d47fbd14f-concrete-science) was made to support professionals, researchers, and students involved in concrete technology, civil engineering, and materials science. It serves as a specialized assistant capable of addressing a wide range of technical tasks, such as designing and optimizing concrete mix formulations, analyzing the effects of various admixtures and supplementary cementitious materials, interpreting durability test results, and troubleshooting on-site construction issues related to concrete performance. Additionally, it can generate detailed technical reports, safety guidelines, academic paper outlines, and summaries of cutting-edge research and emerging trends in sustainable and high-performance concrete. By leveraging precise prompts, users can harness its capabilities for both practical field applications and in-depth academic exploration, making it an invaluable tool for enhancing both the quality and efficiency of concrete-related projects.
+
+#
+
+![Concrete Forest Bunker](https://github.com/user-attachments/assets/de8dd0ec-9a39-48ed-b6ca-830b5d449378)
+
+[Bunker Blitz]() was made to design and visualize underground bunkers tailored to their specific needs, whether for survival, luxury, secrecy, or strategic operations. It guides users through a step-by-step process to create highly customized layouts, from basic shelters to complex subterranean compounds with features like armories, hydroponics labs, command centers, panic rooms, and escape tunnels. Bunker Blitz transforms user input into detailed visual representations, including cutaway views, 3D perspectives, and annotated floor plans that highlight infrastructure elements like ventilation, power systems, and secure access points. The GPT also allows for iterative updates, enabling users to refine designs for efficiency, safety, and aesthetics by choosing architectural styles, material textures, and functional layouts. Whether you're planning a minimalist bug-out shelter or a fortified underground mansion, Bunker Blitz provides a comprehensive, visual, and interactive experience to bring your bunker concept to life.
 
 #
 
