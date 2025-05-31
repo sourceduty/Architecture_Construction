@@ -2,23 +2,7 @@
 
 [Building Technology](https://chatgpt.com/g/g-6836a31d23cc8191816abb2e09cc7e00-building-technology) is a custom GPT focused on building technology, an interdisciplinary field that integrates principles from architecture, engineering, environmental science, materials science, and more to optimize building performance throughout its lifecycle. It provides expert guidance on the design, construction, operation, maintenance, and demolition of buildings with a focus on sustainability, safety, energy efficiency, and occupant well-being. By leveraging current knowledge and best practices, it helps users make informed decisions to create high-quality built environments that are functional, durable, and environmentally responsible. Whether you're planning a new development, retrofitting an existing structure, or exploring innovations in smart buildings, this GPT offers tailored support to enhance every phase of the building process.
 
-___
-
-[Urban Simulator](https://chat.openai.com/g/g-XQ2wkdcXL-urban-simulator)
-<br>
-[International City](https://chatgpt.com/g/g-67fa4b62ddac8191ab7486f760f2fae7-international-city)
-<br>
-[Urban Update](https://chat.openai.com/g/g-87Dl1RabQ-urban-update)
-<br>
-[Art & Design](https://github.com/sourceduty/Art_Design)
-<br>
-[Construction Simulator](https://chat.openai.com/g/g-HJGQpAmKa-construction-simulator)
-<br>
-[Construction Robotics](https://chatgpt.com/g/g-676b896b267c8191b886c0651ddb5890-construction-robotics)
-<br>
-[Geology](https://github.com/sourceduty/Geology)
-
-___
+#
 
 ![Rusty Modern House Concept](https://github.com/user-attachments/assets/59975741-d7c2-4123-a1f2-eee1c68389aa)
 
@@ -73,3 +57,19 @@ The ancient Egyptians invested lifetimes into the future of mankind and the adun
 ![Concrete Forest Bunker](https://github.com/user-attachments/assets/de8dd0ec-9a39-48ed-b6ca-830b5d449378)
 
 [Bunker Blitz](https://chatgpt.com/g/g-683aca61ae0481919030bf7d5cb6bec6-bunker-blitz) was made to design and visualize underground bunkers tailored to their specific needs, whether for survival, luxury, secrecy, or strategic operations. It guides users through a step-by-step process to create highly customized layouts, from basic shelters to complex subterranean compounds with features like armories, hydroponics labs, command centers, panic rooms, and escape tunnels. Bunker Blitz transforms user input into detailed visual representations, including cutaway views, 3D perspectives, and annotated floor plans that highlight infrastructure elements like ventilation, power systems, and secure access points. The GPT also allows for iterative updates, enabling users to refine designs for efficiency, safety, and aesthetics by choosing architectural styles, material textures, and functional layouts. Whether you're planning a minimalist bug-out shelter or a fortified underground mansion, Bunker Blitz provides a comprehensive, visual, and interactive experience to bring your bunker concept to life.
+
+#
+
+[Urban Simulator](https://chat.openai.com/g/g-XQ2wkdcXL-urban-simulator)
+<br>
+[International City](https://chatgpt.com/g/g-67fa4b62ddac8191ab7486f760f2fae7-international-city)
+<br>
+[Urban Update](https://chat.openai.com/g/g-87Dl1RabQ-urban-update)
+<br>
+[Art & Design](https://github.com/sourceduty/Art_Design)
+<br>
+[Construction Simulator](https://chat.openai.com/g/g-HJGQpAmKa-construction-simulator)
+<br>
+[Construction Robotics](https://chatgpt.com/g/g-676b896b267c8191b886c0651ddb5890-construction-robotics)
+<br>
+[Geology](https://github.com/sourceduty/Geology)
