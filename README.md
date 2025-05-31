@@ -12,15 +12,15 @@ Most properties have existing buildings on them which are used by different owne
 
 #
 
-
-
-Modular design is a design approach that structures a system as a collection of distinct, interchangeable components, each serving a unique function. This philosophy allows for easier assembly, troubleshooting, upgrades, and customization, as individual modules can be developed, tested, and used independently before being integrated into the overall system. For instance, in the field of consumer electronics, smartphones and laptops often employ modular design principles, enabling users to upgrade certain components like memory or battery without needing to replace the entire device. In architecture, modular design is epitomized by prefabricated buildings where sections are constructed off-site and then assembled on location, offering significant time and cost savings.
-
-#
-
 ![Modern Cave House](https://github.com/user-attachments/assets/8d059d76-a452-4e7c-b359-452c058ff4ba)
 
 [House Design](https://chatgpt.com/g/g-WgXvQZZ5a-house-design) specializes exclusively in exterior home and building design, offering expert guidance to help users enhance the aesthetic appeal, functionality, and sustainability of their outdoor spaces. Whether you're working on a house, cottage, barn, or other structures, it delivers personalized advice tailored to your architectural style, location, and goals. It covers a wide range of exterior elements, including color palettes, siding materials, roofing options, landscaping ideas, lighting fixtures, and eco-friendly upgrades. The GPT walks users through a thoughtful, step-by-step decision-making process, asking targeted multiple-choice questions to understand your preferences and provide relevant suggestions. It also facilitates visual planning by recommending or using digital design tools to help create mock-ups and mood boards, empowering you to experiment with design options before implementation. Additionally, it offers practical insights into long-term exterior maintenance and sustainable practices, ensuring your property remains visually appealing and environmentally responsible over time.
+
+#
+
+![Log Builder](https://github.com/user-attachments/assets/ce1a3130-12df-4a8c-9466-15a0a1adfdd7)
+
+[Log Builder](https://chatgpt.com/g/g-683b1058a75c8191a118e78b66fdc123-log-builder) was made to help users design and visualize custom log homes, ranging from rustic cabins to luxurious timber lodges and modern log structures. By using advanced image generation and interactive feedback, Log Builder guides users through the creation process step by step, offering detailed visuals of both exteriors and interiors. Users can specify architectural features such as roof styles, porch types, window placements, log textures, and even seasonal or geographic settings. Through iterative changes—like adjusting roof pitch, adding stone elements, or modifying color schemes—Log Builder refines the design based on user preferences. It also supports planning aspects such as floor plans, construction phases, and site layouts, making it a powerful tool for personal inspiration, collaboration with architects, or practical construction planning. Whether the goal is to dream, design, or build, Log Builder provides a highly visual and interactive approach to turning a vision for a log home into a reality.
 
 #
 
