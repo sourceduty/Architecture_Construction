@@ -74,4 +74,4 @@ The ancient Egyptians invested lifetimes into the future of mankind and the adun
 <br>
 [Construction Robotics](https://chatgpt.com/g/g-676b896b267c8191b886c0651ddb5890-construction-robotics)
 <br>
-[Grology](https://github.com/sourceduty/Geology)
+[Geology](https://github.com/sourceduty/Geology)
