@@ -22,7 +22,13 @@
 
 #
 
-![City Street](https://github.com/user-attachments/assets/b1727129-8396-429e-8270-cc7d964baff3)
+![Airspace Construct](https://github.com/user-attachments/assets/4641665a-3fb8-4107-933e-d48cdabdf6f9)
+
+[Airspace Construct](https://chatgpt.com/g/g-683b81fcea9481918b297ec04d41cc01-airspace-construct) was made to support the development and exploration of innovative methods that integrate aerospace technologies with building construction processes. It specializes in analyzing advancements in both the aerospace and construction industries to identify and propose novel applications of aircraft, drones, and space-grade technologies for enhancing construction efficiency, especially in challenging or remote environments. Airspace Construct investigates uses such as aircraft-assisted material transport, drone-enabled surveying and 3D mapping, robotic and automated building techniques, and the incorporation of lightweight, durable aerospace materials into architectural projects. It evaluates the sustainability, safety, and logistical viability of these technologies, with a focus on optimizing flight-based logistics, minimizing environmental impact, and ensuring compliance with evolving regulations. The system also considers the societal and economic implications of aerospace-assisted construction, promotes modular and rapid-deployment construction strategies, and facilitates cross-industry innovation aimed at creating faster, smarter, and more sustainable building solutions.
+
+#
+
+![City](https://github.com/user-attachments/assets/8711ed61-17e3-47f2-b6f8-5916b1b3aae1)
 
 [Urban Twin](https://chatgpt.com/g/g-67aeecb1cf008191bfdc5922f73d8fc7-urban-twin) was made to help build a comprehensive digital twin of a city or town by integrating and analyzing diverse types of urban data. It facilitates the creation of a high-fidelity 3D model using geospatial technologies like LiDAR, GPS, and satellite imagery to capture detailed representations of both natural and built environments. Beyond static modeling, Urban Twin incorporates real-time data from IoT sensors—monitoring traffic, air quality, noise, and energy usage—to enable dynamic updates and scenario simulations. It also draws on historical and predictive datasets, zoning regulations, infrastructure plans, and demographic trends to support long-term urban planning and decision-making. The model supports interactive visualizations for stakeholders to assess impacts of development, simulate disaster responses, and evaluate sustainability initiatives. With a robust backend including cloud storage, machine learning for predictive analytics, and API compatibility, this GPT ensures that the digital twin remains an adaptive, intelligent system for optimizing urban management and enhancing the quality of life for residents.
 
