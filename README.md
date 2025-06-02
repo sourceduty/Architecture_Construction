@@ -60,6 +60,12 @@ In the ever-evolving landscape of modernization, each generation holds a unique 
 
 #
 
+![Fieldstone](https://github.com/user-attachments/assets/bd4d177c-4e96-4a76-8368-a56a0564200b)
+
+[Fieldstone Shelter](https://chatgpt.com/g/g-683d453fd9308191b74db90c8bc815ac-fieldstone-shelter) was created to assist with the planning, design, and visualization of natural stone architecture. It helps users bring to life structures like stone cottages, garden paths, retaining walls, and outdoor fireplaces by generating detailed images and offering expert guidance on materials, construction styles, and layouts. Whether users are starting a new project or refining an existing idea, Fieldstone Shelter provides tailored recommendations based on environmental settings, stone types, and architectural styles. It excels in creating visuals that showcase various stonework techniques—such as dry-stacked, mortared, or sculpted arrangements—ensuring both aesthetic harmony and practical durability in natural settings.
+
+#
+
 [Urban Simulator](https://chat.openai.com/g/g-XQ2wkdcXL-urban-simulator)
 <br>
 [International City](https://chatgpt.com/g/g-67fa4b62ddac8191ab7486f760f2fae7-international-city)
