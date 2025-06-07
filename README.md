@@ -79,3 +79,5 @@ In the ever-evolving landscape of modernization, each generation holds a unique 
 [Construction Robotics](https://chatgpt.com/g/g-676b896b267c8191b886c0651ddb5890-construction-robotics)
 <br>
 [Geology](https://github.com/sourceduty/Geology)
+<br>
+[Hand Tooling](https://chatgpt.com/g/g-68445142516c819187781c3fb5b4f814-hand-tooling)
