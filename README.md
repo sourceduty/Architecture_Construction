@@ -10,7 +10,7 @@
 
 #
 
-![Modern Cave House](https://github.com/user-attachments/assets/8d059d76-a452-4e7c-b359-452c058ff4ba)
+![House Design](https://github.com/user-attachments/assets/61a41025-364f-4354-8edc-9d5d829088cf)
 
 [House Design](https://chatgpt.com/g/g-WgXvQZZ5a-house-design) specializes exclusively in exterior home and building design, offering expert guidance to help users enhance the aesthetic appeal, functionality, and sustainability of their outdoor spaces. Whether you're working on a house, cottage, barn, or other structures, it delivers personalized advice tailored to your architectural style, location, and goals. It covers a wide range of exterior elements, including color palettes, siding materials, roofing options, landscaping ideas, lighting fixtures, and eco-friendly upgrades. The GPT walks users through a thoughtful, step-by-step decision-making process, asking targeted multiple-choice questions to understand your preferences and provide relevant suggestions. It also facilitates visual planning by recommending or using digital design tools to help create mock-ups and mood boards, empowering you to experiment with design options before implementation. Additionally, it offers practical insights into long-term exterior maintenance and sustainable practices, ensuring your property remains visually appealing and environmentally responsible over time.
 
