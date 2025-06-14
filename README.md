@@ -1,4 +1,4 @@
-![Urban Gold Sphere Archway](https://github.com/user-attachments/assets/c7054c20-67af-4f0d-9432-676b38193a89)
+![Urban Gold Sphere Archway](https://github.com/user-attachments/assets/a5361d0c-9004-4e45-b369-4f81d8fef629)
 
 [Building Technology](https://chatgpt.com/g/g-6836a31d23cc8191816abb2e09cc7e00-building-technology) is a custom GPT focused on building technology, an interdisciplinary field that integrates principles from architecture, engineering, environmental science, materials science, and more to optimize building performance throughout its lifecycle. It provides expert guidance on the design, construction, operation, maintenance, and demolition of buildings with a focus on sustainability, safety, energy efficiency, and occupant well-being. By leveraging current knowledge and best practices, it helps users make informed decisions to create high-quality built environments that are functional, durable, and environmentally responsible. Whether you're planning a new development, retrofitting an existing structure, or exploring innovations in smart buildings, this GPT offers tailored support to enhance every phase of the building process.
 
